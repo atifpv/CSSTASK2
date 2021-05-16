@@ -1,0 +1,47 @@
+body{
+    background-color: #FFA300;
+    margin: 0;
+}
+
+.box{
+    margin-top: 15%;
+    margin-left: 38%;
+    background: #fff;
+    width: 25%;
+    height: 300px;
+    border-radius: 1cm;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.username{
+    font-family: 'Roboto Condensed';
+    font-weight: 300;
+    padding-top: 30px;
+    border-radius: 5px;
+    flex: content;
+}
+
+.password{
+    padding-top: 10px;
+    font-family: 'Roboto Condensed';
+    font-weight: 300;
+}
+
+.checkbox{
+    padding-top: 20px;
+    font-family: 'Roboto Condensed';
+    font-weight: 300;
+}
+
+button{
+    background-color: #FFA300;
+    font-weight: bold;
+    text-align: center;
+    border: 0;
+    width: 90px;
+    height: 25px;
+    border-radius: 5px;
+    margin: 30px;
+    font-family: 'Roboto Condensed';
+}
